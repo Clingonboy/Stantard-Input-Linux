@@ -170,8 +170,7 @@ Questo programma legge tutte le righe dalla pipe e poi stampa il numero totale d
 
 ---
 
-Perl, come Python, è molto adatto per lavorare con flussi di input e output e rende facile gestire le pipe. Se hai altre domande o vuoi ulteriori chiarimenti, fammi sapere! 😊
-
+Perl, come Python, è molto adatto per lavorare con flussi di input e output e rende facile gestire le pipe.
 ## Versione in python
 
 In Python, leggere i dati da una pipe (o da qualsiasi flusso di input) è molto semplice grazie alla gestione automatica degli stream di input. Puoi utilizzare `sys.stdin` per leggere i dati in arrivo tramite pipe, che è simile a come funzionava in C con `stdin`.
